@@ -25,7 +25,6 @@ class _UserListPageState extends State<UserListPage> {
   //método para carregar informações antes do build da página
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     _load();
   }
